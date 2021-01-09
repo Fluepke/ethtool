@@ -1,5 +1,7 @@
 # golang-ethtool
 
+> **NOTE**: THIS IS A CLONE OF https://gitlab.com/wobcom/ethtool (duplicated to have a full list of open source stuff, that I wrote, on github)
+
 Provides packages for interacting with the Linux kernel's ethtool ioctls.
 Supports parsing transceiver's EEPROM data according to the standards:
 * [SFF-8472](https://members.snia.org/document/dl/25916) rev 12.3
